@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Brandon Diep
-# FILENAME: parser.py
-# SPECIFICATION: This program will read the CS faculty information, parse faculty members' name, title, office, phone, email, and website, and persist this data in MongoDB
+# FILENAME: crawler.py
+# SPECIFICATION: This program will crawl the CS website until the Permanent Faculty page is found.
 # FOR: CS 5180- Assignment #3
 # TIME SPENT: 2 hours
 #-----------------------------------------------------------*/
